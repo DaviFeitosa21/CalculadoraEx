@@ -8,5 +8,7 @@ Funcionalidade: Neste projeto é possivel fazer calculos basicos de uma calculad
 Contato:
 
 Discord : DaviFeitosa#6222
+
 Linkedin: linkedin.com/in/davi-feitosa-a50838221
+
 Gmail: davisfeitosa21@gmail.com
