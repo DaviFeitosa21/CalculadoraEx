@@ -82,7 +82,7 @@ namespace CalculadoraEx
             
         }
 
-        //Bot~~ao de Subtração
+        //Botão de Subtração
         private void btnsub_Click(object sender, EventArgs e)
         {
             valor1 = decimal.Parse(txtvalores.Text, CultureInfo.InvariantCulture);
