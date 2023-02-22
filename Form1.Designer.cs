@@ -55,7 +55,6 @@
             this.txtvalores.Size = new System.Drawing.Size(250, 20);
             this.txtvalores.TabIndex = 0;
             this.txtvalores.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtvalores.TextChanged += new System.EventHandler(this.txtvalores_TextChanged);
             // 
             // btnum
             // 

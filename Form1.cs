@@ -21,11 +21,6 @@ namespace CalculadoraEx
         decimal valor1, valor2;
         string operacao;
 
-        private void txtvalores_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnzero_Click(object sender, EventArgs e)
         {
             txtvalores.Text += "0";
