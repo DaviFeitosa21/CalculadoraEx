@@ -1,0 +1,11 @@
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\bin\Debug\CalculadoraEx.exe.config
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\bin\Debug\CalculadoraEx.exe
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\bin\Debug\CalculadoraEx.pdb
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.csproj.AssemblyReference.cache
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.Form1.resources
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.Properties.Resources.resources
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.csproj.GenerateResource.cache
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.exe
+C:\Users\davis\Documents\ExCRUD\CalculadoraEx\CalculadoraEx\obj\Debug\CalculadoraEx.pdb
