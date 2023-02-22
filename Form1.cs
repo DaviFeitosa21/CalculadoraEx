@@ -118,12 +118,10 @@ namespace CalculadoraEx
             {
                 txtvalores.Text = Convert.ToString(valor1 + valor2);
             }
-
             if(operacao == "SUBTRACAO")
             {
                 txtvalores.Text = Convert.ToString(valor1 - valor2);
             }
-            
             if(operacao == "DIVISAO")
             {
                 txtvalores.Text = Convert.ToString(valor1 / valor2);
@@ -140,7 +138,5 @@ namespace CalculadoraEx
             txtvalores.Text = string.Empty;
             lbloperacao.Text = string.Empty;
         }
-
-        
     }
 }
