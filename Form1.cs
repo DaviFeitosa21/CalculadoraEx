@@ -21,6 +21,7 @@ namespace CalculadoraEx
         decimal valor1, valor2;
         string operacao;
 
+        //Botões para inserir valores dentro da TextBox
         private void btnzero_Click(object sender, EventArgs e)
         {
             txtvalores.Text += "0";
@@ -71,6 +72,7 @@ namespace CalculadoraEx
             txtvalores.Text += "9";
         }
 
+        //Botão de Soma
         private void btnsoma_Click(object sender, EventArgs e)
         {
             valor1 = decimal.Parse(txtvalores.Text, CultureInfo.InvariantCulture);
@@ -80,6 +82,7 @@ namespace CalculadoraEx
             
         }
 
+        //Bot~~ao de Subtração
         private void btnsub_Click(object sender, EventArgs e)
         {
             valor1 = decimal.Parse(txtvalores.Text, CultureInfo.InvariantCulture);
@@ -88,6 +91,7 @@ namespace CalculadoraEx
             lbloperacao.Text = "-";
         }
 
+        //Botão de Divisão
         private void btndiv_Click(object sender, EventArgs e)
         {
             valor1 = decimal.Parse(txtvalores.Text, CultureInfo.InvariantCulture);
@@ -96,6 +100,7 @@ namespace CalculadoraEx
             lbloperacao.Text = "/";
         }
 
+        //Botão de Multiplicação
         private void btnmult_Click(object sender, EventArgs e)
         {
             valor1 = decimal.Parse(txtvalores.Text, CultureInfo.InvariantCulture);
@@ -104,6 +109,7 @@ namespace CalculadoraEx
             lbloperacao.Text = "*";
         }
 
+        //Botão para somar, subtrair, dividir ou multiplicar os valores
         private void btnresult_Click(object sender, EventArgs e)
         {
             valor2 = decimal.Parse(txtvalores.Text, CultureInfo.InvariantCulture);
@@ -128,6 +134,7 @@ namespace CalculadoraEx
             }
         }
 
+        //Botão para limpar o campo da TextBox e Label
         private void btnlimpar_Click(object sender, EventArgs e)
         {
             txtvalores.Text = string.Empty;
